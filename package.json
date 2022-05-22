@@ -10,6 +10,7 @@
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "core-js": "^3.8.3",
+    "firebase": "^9.8.1",
     "node-sass": "^7.0.1",
     "sass": "^1.51.0",
     "uid": "^2.0.0",
